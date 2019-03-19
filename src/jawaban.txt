@@ -1,0 +1,10 @@
+Tulis jawaban no 6 disini:
+NIM: 1604125
+NAMA: Azizah Nurul Khoirunnisa
+
+
+
+
+
+
+- menggunakan array tidah efektif sehingga lebih baik menggunakan ArrayList
